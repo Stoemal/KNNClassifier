@@ -1,0 +1,22 @@
+train : data + preTest
+results : 
+|15.53 % de la |classA |466
+|20.73 % de la |classB |622
+|33.73 % de la |classC |1012
+|23.13 % de la |classD |694
+|6.87 % de la |classE |206
+
+train : data+preTest normalisé
+resuts :
+|17.73 % de la |classA |532
+|15.93 % de la |classB |478
+|29.03 % de la |classC |871
+|30.40 % de la |classD |912
+|6.90 % de la |classE |207
+
+FinalTest
+|13.43 % de la |classA |403
+|18.53 % de la |classB |556
+|30.83 % de la |classC |925
+|30.30 % de la |classD |909
+|6.90 % de la |classE |207
